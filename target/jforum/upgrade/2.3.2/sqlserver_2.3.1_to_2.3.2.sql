@@ -1,1 +1,0 @@
-ALTER TABLE jforum_attach_desc ALTER COLUMN mimetype varchar(85);
