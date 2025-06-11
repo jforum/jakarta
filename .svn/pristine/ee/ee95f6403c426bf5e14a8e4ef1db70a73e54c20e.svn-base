@@ -1,1 +1,0 @@
-ALTER TABLE jforum_attach_desc CHANGE mimetype mimetype VARCHAR(85);
